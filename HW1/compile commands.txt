@@ -1,0 +1,4 @@
+g++ Subsequence.cpp -o Subsequence
+Subsequence.exe input=input11.txt output=output11.txt
+Subsequence.exe input=input12.txt output=output12.txt
+Subsequence.exe input=input13.txt output=output13.txt
