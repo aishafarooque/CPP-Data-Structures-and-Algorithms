@@ -424,12 +424,24 @@ int main(int argc, char *argv[]) {
 	return 0;	
 } //end main
 
-/*
-To compile:
+/*Work Cited: 
+
+1. Delimiters: imfa, https://stackoverflow.com/questions/18800796/c-get-string-between-two-delimiter-string
+2. removeDuplicates: https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
+3. deleteKey: https: geeksforgeeks, //www.geeksforgeeks.org/delete-occurrences-given-key-linked-list/
+4. Delete key at n-th position: https://www.youtube.com/watch?v=Y0n86K43GO4&t=329s
+4. Delete node from given position: https://www.youtube.com/watch?v=FR-3fn5l1bA
+5. Insert node at n-th position: mycodeschool, https://www.youtube.com/watch?v=IbvsNF22Ud0&t=747s
+6. Sorting a Linked List: BB Barters, https://www.youtube.com/watch?v=S0anUxnLgA8
+7. Check for duplicate values in arrays: Post Self, https://stackoverflow.com/questions/45679999/find-if-an-element-exists-in-c-array
+8. Sorting: https://www.geeksforgeeks.org/c-program-bubble-sort-linked-list/
+
+Compiling:
 g++ -std=c++11 -o ListOperation ListOperation.cpp
 ./ListOperation input=input24.txt command=command24.txt output=output24.txt
 
-OR
+g++ -std=c++11 -o ListOperation ListOperation.cpp
+ListOperation.exe
 
 g++ ListOperation.cpp -o ListOperation
 ListOperation.exe input=input24.txt command=command24.txt output=output24.txt
