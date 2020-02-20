@@ -1,5 +1,3 @@
-// Code credit goes to DS Malik
-
 #include <iostream>
 #include <string>
 #include <cstring>
